@@ -5,6 +5,7 @@ body{
     background-image: linear-gradient(to right, #a1c4f9, #99bef7, #91b8f5, #89b3f3, #81adf1);
 }
 #profile{
+    padding-top: 15px;
     width: 200px;
     height: 200px;
     /* padding: 50px; */
